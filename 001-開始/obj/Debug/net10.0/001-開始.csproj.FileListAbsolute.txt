@@ -1,0 +1,14 @@
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\001-開始\bin\Debug\net10.0\001-開始.exe
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\001-開始\bin\Debug\net10.0\001-開始.deps.json
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\001-開始\bin\Debug\net10.0\001-開始.runtimeconfig.json
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\001-開始\bin\Debug\net10.0\001-開始.dll
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\001-開始\bin\Debug\net10.0\001-開始.pdb
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\001-開始\obj\Debug\net10.0\001-開始.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\001-開始\obj\Debug\net10.0\001-開始.AssemblyInfoInputs.cache
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\001-開始\obj\Debug\net10.0\001-開始.AssemblyInfo.cs
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\001-開始\obj\Debug\net10.0\001-開始.csproj.CoreCompileInputs.cache
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\001-開始\obj\Debug\net10.0\001-開始.dll
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\001-開始\obj\Debug\net10.0\refint\001-開始.dll
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\001-開始\obj\Debug\net10.0\001-開始.pdb
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\001-開始\obj\Debug\net10.0\001-開始.genruntimeconfig.cache
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\001-開始\obj\Debug\net10.0\ref\001-開始.dll

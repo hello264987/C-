@@ -1,0 +1,15 @@
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\004-字符類型\bin\Debug\net10.0\004-字符類型.exe
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\004-字符類型\bin\Debug\net10.0\004-字符類型.deps.json
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\004-字符類型\bin\Debug\net10.0\004-字符類型.runtimeconfig.json
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\004-字符類型\bin\Debug\net10.0\004-字符類型.dll
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\004-字符類型\bin\Debug\net10.0\004-字符類型.pdb
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\004-字符類型\obj\Debug\net10.0\004-字符類型.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\004-字符類型\obj\Debug\net10.0\004-字符類型.AssemblyInfoInputs.cache
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\004-字符類型\obj\Debug\net10.0\004-字符類型.AssemblyInfo.cs
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\004-字符類型\obj\Debug\net10.0\004-字符類型.csproj.CoreCompileInputs.cache
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\004-字符類型\obj\Debug\net10.0\004-字符類型.sourcelink.json
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\004-字符類型\obj\Debug\net10.0\004-字符類型.dll
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\004-字符類型\obj\Debug\net10.0\refint\004-字符類型.dll
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\004-字符類型\obj\Debug\net10.0\004-字符類型.pdb
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\004-字符類型\obj\Debug\net10.0\004-字符類型.genruntimeconfig.cache
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\004-字符類型\obj\Debug\net10.0\ref\004-字符類型.dll

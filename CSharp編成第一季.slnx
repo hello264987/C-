@@ -2,4 +2,5 @@
   <Project Path="001-開始/001-開始.csproj" />
   <Project Path="003.變量/003.變量.csproj" />
   <Project Path="004-字符類型/004-字符類型.csproj" Id="44e04d42-ed73-4883-99b3-44399cec8e2d" />
+  <Project Path="TimeCounter/TimeCounter.csproj" Id="c6b06076-e7a7-40e9-af4d-d2ea2a017c31" />
 </Solution>

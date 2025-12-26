@@ -1,0 +1,10 @@
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\TimeCounter\bin\Debug\TimeCounter.exe.config
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\TimeCounter\bin\Debug\TimeCounter.exe
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\TimeCounter\bin\Debug\TimeCounter.pdb
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\TimeCounter\obj\Debug\TimeCounter.csproj.AssemblyReference.cache
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\TimeCounter\obj\Debug\TimeCounter.Form1.resources
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\TimeCounter\obj\Debug\TimeCounter.Properties.Resources.resources
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\TimeCounter\obj\Debug\TimeCounter.csproj.GenerateResource.cache
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\TimeCounter\obj\Debug\TimeCounter.csproj.CoreCompileInputs.cache
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\TimeCounter\obj\Debug\TimeCounter.exe
+C:\Users\Winland\Desktop\Unity\school\C#編成第一季\CSharp編成第一季\TimeCounter\obj\Debug\TimeCounter.pdb

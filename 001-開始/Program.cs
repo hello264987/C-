@@ -6,9 +6,7 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-
-
-            Console.WriteLine("Siki說\"what is \\n \"");
+            Console.WriteLine("Hello world");
         }
     }
 }
